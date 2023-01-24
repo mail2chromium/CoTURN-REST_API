@@ -1,5 +1,10 @@
 # CoTURN-REST_API
+
 Enterprise Level REST API to get ICE Servers from the custom deployment of CoTURN TURN Server.
+
+I have made a complete basic tutorial on Medium to give you great idea to deploy enterprise-level coturn and rest api. Please visit:
+
+- [CoTURN REST API Development & Deployment](https://medium.com/@BeingOttoman/coturn-rest-api-development-deployment-7bac065c64aa)
 
 ----
 
